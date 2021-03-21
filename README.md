@@ -5,3 +5,5 @@ Database already has some data like users, tables and bookings
 Credentials to enter in admin panel - **login: admin password: admin**
 
 API description - localhost:8000/api/swagger/
+
+ClinetBot for this backend - **https://github.com/SolovyovAlexander/SberBot**
